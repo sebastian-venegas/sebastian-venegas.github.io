@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://i.pinimg.com/736x/9b/46/b1/9b46b1eec196377c0be06a80ac70f857.jpg"
+  avatar           : "https://i.pinimg.com/1200x/9e/07/e7/9e07e7d82f230931a6fab97cbea4ab2f.jpg"
   name             : "Sebastian D. Venegas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Costa Rica"
+  bio              : "Student of Mathematics"
+  location         : "Alajuela, Costa Rica"
   employer         : "University of Costa Rica"
   uri              : # URL
   email            : "sebastian.venegasmarchena@ucr.ac.cr" 
