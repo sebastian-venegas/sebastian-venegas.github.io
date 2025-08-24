@@ -2,6 +2,7 @@
 title: Affiliations
 permalink: /affiliations/
 author_profile: true
+published: false
 ---
 
 

@@ -15,6 +15,10 @@ main:
   - title: "Books"
     url: /books/
 
+  - title: "Notes"
+    url: /notes/
+
+
   - title: "Conferences & Talks"
     url: /conferences/    
         

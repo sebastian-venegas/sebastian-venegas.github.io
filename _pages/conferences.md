@@ -32,7 +32,7 @@ permalink: /conferences/
       </p>
       <p>
         This workshop enriched my understanding of geometric structures linked to **representation theory**, **Higgs bundles**, 
-        and their interactions with **topology and physics**, complementing my ongoing research in higher category theory.
+        and their interactions <strong>with topology and physics</strong>, complementing my ongoing research in higher category theory.
       </p>
       <p style="margin-top:1em;">
         For more information, visit the official <a href="https://workshop.cimpa.ucr.ac.cr/" target="_blank">CIMPA page for the workshop</a>.

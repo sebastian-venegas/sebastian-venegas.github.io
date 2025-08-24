@@ -2,9 +2,10 @@
 title: "Sebastian Venegas — Category Theorist and Mathematical Philosopher"
 author_profile: true
 permalink: /
+published: false
 ---
 
-I am **Sebastian Venegas**, a second-semester student of pure mathematics at the University of Costa Rica, 
+I am **Sebastian Venegas**, a undeegraduate student of pure mathematics at the University of Costa Rica, 
 specializing in **Category Theory** and its intersections with homological algebra, homotopy type theory, 
 and the philosophical foundations of mathematics. My research and academic work focus on bridging the rigor of abstract mathematics with its conceptual,
 logical, and philosophical implications. I am also interested in exploring **computational**, **physical** and **philosophical** applications of higher category theory.
@@ -15,9 +16,9 @@ How i said before, im into the world of *philosophy* especially interested in ap
 I am an active member of the **Pride community** <img src="https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/Intersex-inclusive-pride-flag-1?qlt=82&wid=1024&ts=1686309900377&dpr=off&fit=constrain" width="4%" alt="Intersex-Inclusive Pride Flag">
 , engaging with initiatives that promote visibility, inclusion, and diversity within academic and social contexts.  
 
-Politically, I identify with **Anarcho-Syndicalism/Cristian-Anarchism/Anarcho-Communism** <img src="https://robertgraham.wordpress.com/wp-content/uploads/2021/01/christian-anarcho-syndicalist-flag-1.png" width="4%" alt="Anarcho-Syndicalist Flag">
+Politically, I identify with **Anarcho-Syndicalism/christian-Anrchism/Anarcho-Communism** <img src="https://robertgraham.wordpress.com/wp-content/uploads/2021/01/christian-anarcho-syndicalist-flag-1.png" width="4%" alt="Anarcho-Syndicalist Flag">
 , a philosophy emphasizing horizontal organization, workers’ self-management, and social cooperation. This perspective informs my ethical framework and my engagement with collaborative academic and community projects. 
-*(to see my political identity and works like essays, books and zines, enter in my personal political website:) [Draiken's Website](https://draiken.neocities.org/)*  
+
 
 ---
 
