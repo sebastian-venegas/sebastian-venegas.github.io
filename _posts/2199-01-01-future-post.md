@@ -1,12 +1,14 @@
 ---
 title: "A Technical Introduction to Cosmoi and Infinity-Cosmoi in Category Theory"
 date: 2025-08-10
+image: https://i.pinimg.com/1200x/a5/2e/89/a52e89c7486afa1bd5e53ac3dd4d3926.jpg
 permalink: /posts/2025/08/cosmoi-infty-cosmoi-technical-intro/
 tags:
   - category theory
   - Cosmoi
   - \\(\\infty\\)-category theory
   - enriched categories
+  
 ---
 
 # Introduction
@@ -40,6 +42,9 @@ A \\(\\mathcal{V}\\)-category \\(\\mathcal{C}\\) consists of
   \\mathcal{C}(y,z) \\otimes \\mathcal{C}(x,y) \\to \\mathcal{C}(x,z)
   \\]
   satisfying associativity and identity axioms suitably formulated inside \\(\\mathcal{V}\\).
+
+<img src="https://i.sstatic.net/L1aYf.png" alt="Square Axiom" style="max-width:400px;"/>
+
 
 ---
 

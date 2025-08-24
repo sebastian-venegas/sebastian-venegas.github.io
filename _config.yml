@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sebastian D. Venegas"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "Sebastian Venegas"
+name                     : &name "Sebastian D. Venegas"
 description              : &description "personal description"
 url                      : https://sebastian-venegas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://i.pinimg.com/1200x/9e/07/e7/9e07e7d82f230931a6fab97cbea4ab2f.jpg"
-  name             : "Sebastian D. Venegas"
-  pronouns         : # example: "she/her"  
-  bio              : "Student of Mathematics"
+  avatar           : "https://i.pinimg.com/736x/ee/ce/ba/eeceba0076f54334c6a3d7496db8681a.jpg"
+  name             : "𝕾𝖊𝖇𝖆𝖘𝖙𝖎𝖆𝖓 𝕯. 𝖁𝖊𝖓𝖊𝖌𝖆𝖘"
+  pronouns         : "He/Him"  
+  bio              : "Student of Mathematics and Philosophy ꨄ︎"
   location         : "Alajuela, Costa Rica"
   employer         : "University of Costa Rica"
   uri              : # URL
@@ -33,13 +33,10 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/math?searchtype=author&query=Venegas,+S"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
