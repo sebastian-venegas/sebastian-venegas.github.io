@@ -4,101 +4,45 @@ author_profile: true
 permalink: /conferences/
 ---
 
-<section id="conferences-workshops">
 
-  <div class="accordion">
-    <button class="accordion-header">
-      Workshop on Character Varieties and Higgs Bundles
-      <span style="float:right; font-weight:bold;">Aug 4–8, 2025 — Universidad de Costa Rica, Liberia, Guanacaste</span>
-    </button>
-    <div class="accordion-content">
-      <p>
-        I attended this **international workshop as an observer**, held under the collaborative framework of the 
-        <strong>DFG-CONARE Costa Rican-German Research Project</strong> on Character Varieties and Higgs Bundles. 
-        The event brought together young researchers and senior experts to foster research in representation theory, 
-        algebraic geometry, and gauge theory.
-      </p>
-      <p>
-        The workshop featured:
-        <ul>
-          <li>Three intensive mini-courses focused on modern geometric structures.</li>
-          <li>High-level research talks by international mathematicians.</li>
-          <li>Interactive poster sessions for networking and discussion of open problems.</li>
-        </ul>
-      </p>
-      <p>
-        <strong>Organizers:</strong> Prof. Ronald A. Zúñiga-Rojas, Prof. Alexander H.W. Schmitt.<br>
-        <strong>Lecturers:</strong> Ana Casimiro, Alfonso Zamora, Guillermo Gallego.
-      </p>
-      <p>
-        This workshop enriched my understanding of geometric structures linked to **representation theory**, **Higgs bundles**, 
-        and their interactions <strong>with topology and physics</strong>, complementing my ongoing research in higher category theory.
-      </p>
-      <p style="margin-top:1em;">
-        For more information, visit the official <a href="https://workshop.cimpa.ucr.ac.cr/" target="_blank">CIMPA page for the workshop</a>.
-      </p>
-    </div>
-  </div>
+## Invited Talks & Seminars
 
-  <!-- Additional events can be added below in the same accordion structure -->
-</section>
+### Introduction to Category Theory and Its Applications  
+**Science Week, University of Costa Rica**  
+*September 2025, San José, Costa Rica*  
 
-<style>
-/* Accordion styling */
-.accordion {
-  margin: 1.5em 0;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-}
+This presentation introduced the fundamental concepts of category theory to a general academic audience, emphasizing its role as a unifying language in modern mathematics and its applications across multiple disciplines. The talk covered:
 
-.accordion-header {
-  background-color: #f9f9f9;
-  cursor: pointer;
-  padding: 0.75em 1em;
-  text-align: left;
-  border: none;
-  outline: none;
-  font-size: 1.05em;
-  transition: background-color 0.3s ease;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+- Basic categorical notions: objects, morphisms, functors, and natural transformations
+- Diagrammatic reasoning and universal properties
+- Applications in:
+  - Mathematics (algebraic topology, homological algebra)
+  - Computer science (functional programming, type theory)
+  - Physics (topological quantum field theories, symmetry)
+  - Philosophy (foundations, logic, structuralism)
 
-.accordion-header:hover {
-  background-color: #eee;
-}
+The presentation was designed to be accessible to students and researchers from diverse backgrounds, requiring no prior knowledge of category theory.
 
-.accordion-content {
-  display: none;
-  padding: 1em;
-  background-color: #fff;
-  font-size: 0.95em;
-  line-height: 1.5em;
-  border-top: 1px solid #ccc;
-}
+**Materials**:  
+[Slides (PDF)](/assets/talks/category-theory-general.pdf) | [Abstract](/assets/talks/abstract-category-theory.txt)
 
-/* Smooth open/close */
-.accordion-content.show {
-  display: block;
-}
+---
 
-/* Links style */
-.accordion-content a {
-  color: #1a0dab;
-  text-decoration: underline;
-}
-</style>
+##  Workshops Attended
 
-<script>
-// Accordion functionality
-document.querySelectorAll('.accordion-header').forEach((btn) => {
-  btn.addEventListener('click', () => {
-    const content = btn.nextElementSibling;
-    content.classList.toggle('show');
-  });
-});
-</script>
+### Workshop on Character Varieties and Higgs Bundles  
+**Aug 4–8, 2025 — Universidad de Costa Rica, Liberia, Guanacaste**
 
+I attended this **international workshop as an observer**, held under the collaborative framework of the **DFG-CONARE Costa Rican-German Research Project** on Character Varieties and Higgs Bundles. The event brought together young researchers and senior experts to foster research in representation theory, algebraic geometry, and gauge theory.
+
+#### The workshop featured:
+- Three intensive mini-courses focused on modern geometric structures.  
+- High-level research talks by international mathematicians.  
+- Interactive poster sessions for networking and discussion of open problems.  
+
+**Organizers:** Prof. Ronald A. Zúñiga-Rojas, Prof. Alexander H.W. Schmitt  
+**Lecturers:** Ana Casimiro, Alfonso Zamora, Guillermo Gallego  
+
+This workshop enriched my understanding of geometric structures linked to **representation theory**, **Higgs bundles**, and their interactions with **topology and physics**, complementing my ongoing research in higher category theory.
+
+[More information on the official CIMPA page](https://workshop.cimpa.ucr.ac.cr/)

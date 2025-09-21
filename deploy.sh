@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Mensaje de commit como argumento, o mensaje por defecto
-MSG=${1:-"Quick uodate"}
+MSG=${1:-"Quick update"}
 
 git add .
 git commit -m "$MSG"

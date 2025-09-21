@@ -15,26 +15,29 @@ main:
   - title: "Books"
     url: /books/
 
-  - title: "Notes"
-    url: /notes/
+  #- title: "Notes"
+  #  url: /notes/
+
+  #- title: "Manifesto"
+  #  url: /manifesto/
 
 
   - title: "Conferences & Talks"
     url: /conferences/    
         
-  - title: "Affiliations"
-    url: /affiliations/    
+  #- title: "Affiliations"
+  #  url: /affiliations/    
 
-  - title: "Blog"
-    url: /year-archive/
+  #- title: "Blog"
+  #  url: /year-archive/
   
-  - title: "Library"
-    url: /library/    
+  #- title: "Library"
+  #  url: /library/    
 
 
-  - title: "Media"
-    url: /media/
+  #- title: "Media"
+  #  url: /media/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     

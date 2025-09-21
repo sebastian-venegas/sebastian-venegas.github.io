@@ -25,7 +25,7 @@ author:
   avatar           : "https://i.pinimg.com/736x/ee/ce/ba/eeceba0076f54334c6a3d7496db8681a.jpg"
   name             : "𝕾𝖊𝖇𝖆𝖘𝖙𝖎𝖆𝖓 𝕯. 𝖁𝖊𝖓𝖊𝖌𝖆𝖘"
   pronouns         : "He/Him"  
-  bio              : "Student of Mathematics and Philosophy ꨄ︎"
+  bio              : "Student of Mathematics ꨄ︎"
   location         : "Alajuela, Costa Rica"
   employer         : "University of Costa Rica"
   uri              : # URL
@@ -44,7 +44,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "sebastian-venegas"
+  orcidd           : "0009-0009-2593-871X"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   # Social media
